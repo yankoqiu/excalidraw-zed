@@ -1,0 +1,1 @@
+[{"label":"Excalidraw: Preview","command":"powershell","args":["-NoProfile","-File","D:/Project/iamyanko/excalidraw-zed/preview.ps1","$ZED_FILE"]}]
